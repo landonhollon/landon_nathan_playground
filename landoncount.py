@@ -1,2 +1,2 @@
-for i in range(17):
-    print(i+13)
+for i in range(1155):
+    print(2*i+2128)
